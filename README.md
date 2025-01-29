@@ -1,2 +1,2 @@
 # PWSkills-DSA
-PWSkills-DSA Assignments
+PWSkills-EDA
